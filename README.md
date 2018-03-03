@@ -1,2 +1,2 @@
-# Javascriptlearning
-Code from Codecademy
+# Learning JS
+Code from different projects
